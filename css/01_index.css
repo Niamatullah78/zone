@@ -1,0 +1,23 @@
+.test{
+background-color: blue;
+}
+
+.center{
+    background-color: yellow;
+     font-size: 90px;
+}
+
+#test1{
+    font-size: 35px;
+    background-color: lightgreen;
+}
+
+.Niamatullah{
+    font-weight: bolder;
+    font-size: 90px;
+}
+
+*{
+    font-family: 'Macondo', cursive;
+    font-family: 'Tapestry', cursive;
+}
