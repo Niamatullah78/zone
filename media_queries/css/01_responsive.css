@@ -1,0 +1,11 @@
+/* 
+MEDIA QUERIES permettent de ré-arranger la disposition du site en fonction des taiilles de navigateur en px - cf. viewportsizes.com - 3 tailles suffisent
+on peut faire une feuille de style standard et une css rien que pour le responsive de base la zone est rouge, si l'écran est de plus de 768px e t jusqu'à 992px la zone est orange.  */
+
+.zone-adaptative{
+    background: red;
+    color: white;
+    padding: 10px;
+}
+
+@
